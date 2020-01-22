@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "JSrunner",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "images/pirate_PNG90.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "pwa",
+  "short_name": "pwa",
+  "start_url": "/pwa/index.html"
+}
